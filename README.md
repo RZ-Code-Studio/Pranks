@@ -1,2 +1,2 @@
 # Pranks
-This talks about pranls
+This talks about pranks
